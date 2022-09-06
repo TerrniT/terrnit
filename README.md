@@ -38,7 +38,6 @@ Here are some ideas to get you started:
   <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"/>
-  <img align="center" alt="NeoVim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg"/>
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="photoshop" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
 </div>
