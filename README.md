@@ -29,24 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
      <img align="center" alt="Styled-components-logo" height="30" width="40" src="https://www.styled-components.com/atom.png" />
 </div>
- <p align="center">
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-flat&logo=github&logoColor=white" />
-    <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-flat&logo=gitlab&logoColor=white" /><br />
-    <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-flat&logo=npm&logoColor=white" />
-    <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-flat&logo=yarn&logoColor=white" />
-    <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
-    <img alt="ts" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-flat&logo=typescript&logoColor=white" />
-    <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-flat&logo=php&logoColor=white" />
-    <img alt="vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-flat&logo=vite&logoColor=white" />
-    <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-flat&logo=webpack&logoColor=gray" />
-    <img alt="next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-flat&logo=next.js&logoColor=white" />
-    <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-flat&logo=react&logoColor=black" />
-    <img alt="vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-flat&logo=vue.js&logoColor=white" />
-    <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-flat&logo=sass&logoColor=white" /><br/>
-    <img alt="aws" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-flat&logo=amazon-aws&logoColor=white" />
-    <img alt="s3" src="https://img.shields.io/badge/-S3-569A31?style=flat-flat&logo=amazon-s3&logoColor=white" />
 
-</p>
  <h3>Tools</h3>
  <div style="display: inline_block">
   <img align="center" alt="wbpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"/>
