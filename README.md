@@ -1,4 +1,6 @@
 ### Hi there 👋
+f*ck webpack 
+all my homies uses vite (Turbopack after NextJS 13)
 <a href="https://wakatime.com/@4016d1b7-d562-4259-b50d-efb21a5f523f"><img src="https://wakatime.com/badge/user/4016d1b7-d562-4259-b50d-efb21a5f523f.svg" alt="Total time coded since Nov 28 2021" /></a>
 <!--
 **TerrniT/terrnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
