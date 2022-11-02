@@ -1,4 +1,4 @@
-### Hi there 👋
+### $\color[RGB]{155,127,0} HI$ 👋
 
 ![](https://komarev.com/ghpvc/?username=terrnit)
 
