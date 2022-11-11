@@ -1,7 +1,4 @@
-## 🔭 I’m currently working on Apollo
 
-### Apollo - note-taking app build in React Native
-### Stage: design & building
 
 
 ![](https://komarev.com/ghpvc/?username=terrnit)
@@ -40,3 +37,9 @@
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="photoshop" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
 </div>
+
+
+## 🔭 I’m currently working on Apollo
+
+### Apollo - note-taking app build in React Native
+### Stage: design & building
