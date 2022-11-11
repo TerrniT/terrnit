@@ -1,4 +1,8 @@
-## 🔭 I’m currently working on $\color[RGB]{209, 24, 124} APOLLO$
+## 🔭 I’m currently working on Apollo
+
+### Apollo - note-taking app build in React Native
+### Stage: design & building
+
 
 ![](https://komarev.com/ghpvc/?username=terrnit)
 
