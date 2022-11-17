@@ -41,4 +41,5 @@
 
 ## 🔭 I’m currently working on Apollo
 > Apollo - note-taking app build in React Native
+> 
 > Stage: design & building
