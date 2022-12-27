@@ -13,6 +13,11 @@ I've learning to code for 3 years. I started with Python, but have really found 
 * 🧠  I'm learning typescript
 * 🤝  I'm open to collaborating on full-stack app's
 
+
+![](https://komarev.com/ghpvc/?username=terrnit)
+
+<a href="https://wakatime.com/@4016d1b7-d562-4259-b50d-efb21a5f523f"><img src="https://wakatime.com/badge/user/4016d1b7-d562-4259-b50d-efb21a5f523f.svg" alt="Total time coded since Nov 28 2021" /></a>
+
 ### Skills
 
 
@@ -36,7 +41,7 @@ I've learning to code for 3 years. I started with Python, but have really found 
 </p>
 
 
-### Intresting
+### Higly intresting now 
 
 
 <p align="left">
@@ -52,7 +57,6 @@ I've learning to code for 3 years. I started with Python, but have really found 
 
 
 <p align="left">
-  <img align="center" alt="wbpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"/>
   <img align="center" alt="yarn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"/>
   <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
@@ -73,9 +77,6 @@ I've learning to code for 3 years. I started with Python, but have really found 
 <a href="http://www.github.com/terrnit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=terrnit&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-![](https://komarev.com/ghpvc/?username=terrnit)
-
-<a href="https://wakatime.com/@4016d1b7-d562-4259-b50d-efb21a5f523f"><img src="https://wakatime.com/badge/user/4016d1b7-d562-4259-b50d-efb21a5f523f.svg" alt="Total time coded since Nov 28 2021" /></a>
 
 
 
