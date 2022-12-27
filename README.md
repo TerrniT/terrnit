@@ -1,7 +1,8 @@
 ![github__readme_thumb](https://user-images.githubusercontent.com/79077994/209724658-d4688029-1fc6-44c2-aca6-139a3055f9f3.png)
 
 
-I've learning to code for 2 years. I started with Python, but have really found a passion for frontend development, presentation and design some stuff
+I've learning to code for 2 years. I started with Python, but have really found a passion for frontend development, 
+presentation and design some stuff
 
 * 🌍  I'm based in Ekaterinburg
 * 🖥️  See my portfolio at [my homepage](http://terrnit-homepage.vercel.app)
