@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer. UI UX Designer
 ----------------------------------
 
-I've learning to code for 2 years. I started with Python, but have really found a passion for frontend development, presentation and design stuff
+I've learning to code for 2 years. I started with Python, but have really found a passion for frontend development, presentation and design some stuff
 
 * 🌍  I'm based in Ekaterinburg
 * 🖥️  See my portfolio at [my homepage](http://terrnit-homepage.vercel.app)
