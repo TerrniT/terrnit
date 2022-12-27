@@ -1,4 +1,4 @@
-![github__readme_thumb](https://user-images.githubusercontent.com/79077994/209724308-6f7051eb-33ef-4ef6-b009-db895e0fb1ab.png)
+![github__readme_thumb](https://user-images.githubusercontent.com/79077994/209724658-d4688029-1fc6-44c2-aca6-139a3055f9f3.png)
 
 
 I've learning to code for 2 years. I started with Python, but have really found a passion for frontend development, presentation and design some stuff
