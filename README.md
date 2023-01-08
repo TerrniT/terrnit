@@ -274,27 +274,9 @@ presentation and design some stuff
   <tr>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
@@ -302,17 +284,17 @@ presentation and design some stuff
       </a>
       <br>Firebase
     </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Supabase
+    </td>
       <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
-    </td>
-      <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://trpc.io/img/logo.svg" width="48" height="48" alt="tRPC" />
-      </a>
-      <br>tRPC
     </td>
   </tr> 
 </table>
@@ -323,9 +305,9 @@ presentation and design some stuff
   <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" height="48" alt="MetaMask" />
       </a>
-      <br>Electron
+      <br>Metamask
     </td>
   </tr> 
 </table>
