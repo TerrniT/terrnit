@@ -169,8 +169,18 @@ presentation and design some stuff
       </a>
       <br>Vim
     </td>
-
- 
+      <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
   </tr> 
 </table>
 
@@ -190,35 +200,11 @@ presentation and design some stuff
       </a>
       <br>Next JS
     </td>
-      <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
       </a>
       <br>Mobx
-    </td>
-     <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center"  width="96">
-      <a href="#debabin-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-   <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
@@ -234,18 +220,6 @@ presentation and design some stuff
       </a>
       <br>Html5
       </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
