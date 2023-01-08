@@ -195,8 +195,6 @@ presentation and design some stuff
       </a>
       <br>Css3
     </td>
-  </tr> 
-    <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
