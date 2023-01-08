@@ -211,13 +211,7 @@ presentation and design some stuff
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
-    </td>
-     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
+      </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
@@ -230,12 +224,6 @@ presentation and design some stuff
       </a>
       <br>Vite
     </td> 
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
