@@ -53,18 +53,6 @@ presentation and design some stuff
 </p>
 
 
-
-### Tools
-
-
-<p align="left">
-  <img align="center" alt="yarn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"/>
-  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
-  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"/>
-</p>
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/dfe5d201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/terrnit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UC-Xu_hPhWucbV06VeyyIZig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
