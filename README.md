@@ -149,30 +149,6 @@ presentation and design some stuff
       </a>
       <br>Prettier
     </td>
-   <td align="center"  width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
-      </a>
-      <br>Cypress
-    </td>
-   <td align="center"  width="96">
-      <a href="#debabin-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
-      </a>
-      <br>Playwright
-    </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
-      </a>
-      <br>Storybook
-    </td>
   </tr> 
 </table>
 
