@@ -72,64 +72,54 @@ presentation and design some stuff
       </a>
       <br>JavaScript
     </td>
-   
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
       </a>
       <br>TypeScript
     </td>
-   
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
-    </td>
- 
-
+   </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
-   
-          <td align="center" width="96"> 
+     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
-   
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
       </a>
       <br>Mobx
     </td>
-   
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       </a>
       <br>Css3
     </td>
-   
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
       </td>
-   
    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
-   
   </tr> 
 </table>
 
