@@ -226,7 +226,7 @@ presentation and design some stuff
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://res.cloudinary.com/du8o9hpsu/image/upload/v1590839237/yzq11mtgl6rcatynhgbw.png" width="48" height="48" alt="supabase" />
       </a>
       <br>Supabase
     </td>
