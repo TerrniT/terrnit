@@ -5,9 +5,9 @@ I've learning to code for 2 years. I started with Python, but have really found 
 presentation and design some stuff
 
 * 🌍  I'm based in Ekaterinburg
-* 🖥️  See my portfolio at [my homepage](http://terrnit-world.vercel.app)
+* 🖥️  See my portfolio at [my homepage](http://github.com/terrnit)
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
-* 🚀  I'm currently working on [terrnit.docs ( link's and tip's storing system as web app )](http://www.behance.net/gallery/159753273/Personal-Docs-Page)
+* 🚀  I'm currently working on [terrnit.docs ( link's and tip's storing system as web app )](https://terrnit-documents.vercel.app)
 * 🧠  I'm learning typescript
 * 🤝  I'm open to collaborating on full-stack app's
 
