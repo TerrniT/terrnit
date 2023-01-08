@@ -157,6 +157,20 @@ presentation and design some stuff
       </a>
       <br>Docker
     </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+       <img align="center" alt="vscode" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+      </a>
+      <br>VSCode
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img align="center" alt="vim" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"/>
+      </a>
+      <br>Vim
+    </td>
+
+ 
   </tr> 
 </table>
 
