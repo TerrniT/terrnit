@@ -14,7 +14,37 @@ presentation and design some stuff
 
 ### Links
 
-<p align="left"> <a href="https://www.behance.com/dfe5d201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/terrnit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UC-Xu_hPhWucbV06VeyyIZig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<table width='100%'>
+  <tr>
+    <td  width="33%">
+     <a href="https://www.behance.com/dfe5d201" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
+  </a> 
+   </td>
+    <td  width="33%">
+   <a href="https://www.github.com/terrnit" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+   </td>
+      <td  width="33%">
+ <a href="https://www.youtube.com/channel/UC-Xu_hPhWucbV06VeyyIZig" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+   </td>
+ </tr>
+ </table>
+
+
+  <a href="https://www.behance.com/dfe5d201" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.github.com/terrnit" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.youtube.com/channel/UC-Xu_hPhWucbV06VeyyIZig" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+
 
 ![](https://komarev.com/ghpvc/?username=terrnit)
 
