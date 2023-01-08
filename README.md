@@ -35,17 +35,6 @@ presentation and design some stuff
  </table>
 
 
-  <a href="https://www.behance.com/dfe5d201" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.github.com/terrnit" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.youtube.com/channel/UC-Xu_hPhWucbV06VeyyIZig" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-  </a>
-
-
 ![](https://komarev.com/ghpvc/?username=terrnit)
 
 <a href="https://wakatime.com/@4016d1b7-d562-4259-b50d-efb21a5f523f"><img src="https://wakatime.com/badge/user/4016d1b7-d562-4259-b50d-efb21a5f523f.svg" alt="Total time coded since Nov 28 2021" /></a>
