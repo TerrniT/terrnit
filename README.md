@@ -203,12 +203,6 @@ presentation and design some stuff
   </tr> 
 </table>
 
->  Frontend
- 
-<table width='100%'>
- 
-</table>
-
 >  Mobile
  
 <table width='100%'>
