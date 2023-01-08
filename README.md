@@ -84,6 +84,44 @@ presentation and design some stuff
       </a>
       <br>Figma
     </td>
+ 
+
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+          <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
+      </a>
+      <br>Mobx
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+      </td>
+   <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
   </tr> 
 </table>
 
@@ -170,44 +208,7 @@ presentation and design some stuff
 >  Frontend
  
 <table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-          <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
-     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-      </td>
-   <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
+ 
 </table>
 
 >  Mobile
