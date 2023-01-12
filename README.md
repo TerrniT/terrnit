@@ -47,9 +47,6 @@ presentation and design some stuff
 <table width='100%'>
   <tr>
     <td  width="50%">
-     <a href="http://www.github.com/terrnit"><img src="https://github-readme-stats.vercel.app/api?username=terrnit&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&show_icons=true" alt="terrnit's GitHub stats" /></a>
-   </td>
-    <td  width="50%">
     <a href="http://www.github.com/terrnit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=terrnit&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
    </td>
  </tr>
