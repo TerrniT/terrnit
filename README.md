@@ -7,9 +7,9 @@ presentation and design some stuff
 * 🌍  I'm based in Ekaterinburg
 * 🖥️  See my portfolio at [my homepage](http://github.com/terrnit)
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
-* 🚀  I'm currently working on [terrnit.docs ( link's and tip's storing system as web app )](https://terrnit-documents.vercel.app)
+* 🚀  I'm currently working on [Monolink](https://github.com/TerrniT/Monolink)
 * 🧠  I'm learning typescript
-* 🤝  I'm open to collaborating on full-stack app's
+* 🤝  I'm open to collaborating on fullstack app's
 
 
 ### Links
