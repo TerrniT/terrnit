@@ -9,7 +9,6 @@ presentation and design some stuff
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 * 🧠  I'm learning typescript
 * 🤝  I'm open to collaborating 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terrnit)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 
