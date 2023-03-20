@@ -1,6 +1,3 @@
-![github__readme_thumb](https://user-images.githubusercontent.com/79077994/209724658-d4688029-1fc6-44c2-aca6-139a3055f9f3.png)
-
-
 I've learning to code for 2 years. I started with Python, but have really found a passion for frontend development, 
 presentation and design some stuff
 
@@ -49,6 +46,25 @@ presentation and design some stuff
     <td  width="50%">
     <a href="http://www.github.com/terrnit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=terrnit&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
    </td>
+ </tr>
+  <tr>
+ 
+    <td  width="33%">
+     <a href="https://www.behance.com/dfe5d201" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
+  </a> 
+   </td>
+    <td  width="33%">
+   <a href="https://www.github.com/terrnit" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+   </td>
+      <td  width="33%">
+ <a href="https://www.youtube.com/channel/UC-Xu_hPhWucbV06VeyyIZig" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+   </td>
+
  </tr>
  </table>
 
