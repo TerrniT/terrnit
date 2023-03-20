@@ -31,7 +31,10 @@ presentation and design some stuff
  <br>
 
 
-![](https://komarev.com/ghpvc/?username=terrnit)
+
+
+
+![profile_views](https://komarev.com/ghpvc/?username=terrnit)
 
 
 <a href="https://wakatime.com/@4016d1b7-d562-4259-b50d-efb21a5f523f"><img src="https://wakatime.com/badge/user/4016d1b7-d562-4259-b50d-efb21a5f523f.svg" alt="Total time coded since Nov 28 2021" /></a>
@@ -43,28 +46,9 @@ presentation and design some stuff
 
 <table width='100%'>
   <tr>
-    <td  width="50%">
+    <td  width="33%">
     <a href="http://www.github.com/terrnit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=terrnit&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
    </td>
- </tr>
-  <tr>
- 
-    <td  width="33%">
-     <a href="https://www.behance.com/dfe5d201" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
-  </a> 
-   </td>
-    <td  width="33%">
-   <a href="https://www.github.com/terrnit" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
-   </td>
-      <td  width="33%">
- <a href="https://www.youtube.com/channel/UC-Xu_hPhWucbV06VeyyIZig" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-  </a>
-   </td>
-
  </tr>
  </table>
 
