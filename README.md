@@ -1,6 +1,3 @@
-I've learning to code for 2 years. I started with Python, but have really found a passion for frontend development, 
-presentation and design some stuff
-
 * 🌍  I'm based in Ekaterinburg
 * 🖥️  See my portfolio at [my homepage](http://github.com/terrnit)
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
