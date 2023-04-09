@@ -90,9 +90,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
+       <img src="https://user-images.githubusercontent.com/79077994/230798739-d96503c7-a966-4dad-ac10-425dbcf0f5ad.svg" width="48" height="48" alt="redux"/>
       </a>
-      <br>Mobx
+      <br>Redux
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
