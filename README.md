@@ -1,5 +1,5 @@
 * 🌍  I'm based in Ekaterinburg
-* 🖥️  See my portfolio at [my homepage](http://github.com/terrnit)
+* 🖥️  See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 * 🧠  I'm learning typescript
 * 🤝  I'm open to collaborating 
