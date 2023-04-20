@@ -2,7 +2,7 @@
 * 🖥️  See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 * 🧠  I'm learning Typescript
-* 🤝  I'm available to hire
+
 
 
 ![profile_views](https://komarev.com/ghpvc/?username=terrnit)
