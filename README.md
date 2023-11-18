@@ -1,7 +1,8 @@
 * 🌍  I'm based in Ekaterinburg
 * 🖥️  See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
+* 🖥️  See my blog at [my blog](https://terrnit-xyz-blog.vercel.app)
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
-* 🧠  I'm learning Typescript
+* 🧠  Typescript, Vue, React, Astro
 
 
 
