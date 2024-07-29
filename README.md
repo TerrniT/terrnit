@@ -1,7 +1,7 @@
-* 🌍  I'm based in Ekaterinburg
-* 🖥️  See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
+* 🌍 I'm based in Ekaterinburg
+* 🖥️ See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
 * ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
-* 🧠  Typescript, Vue, Svelte, Go, Devops Stuff
+* 🧠 Typescript, Vue, Svelte, Go, Devops Stuff
 
 
 
