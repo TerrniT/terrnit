@@ -1,7 +1,8 @@
-* 🌍 I'm based in Ekaterinburg
-* 🖥️ See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
-* ✉️  You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
-* 🧠 Typescript, Vue, Svelte, Go, Devops Stuff
+* 🌍  I'm based in Ekaterinburg
+* 🖥️  See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
+* ✉️   You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
+* ⚒️​   I have expertise in Typescript, Vue, React, NextJS, NuxtJS
+* 🧠  Learning Svelte, Three JS and intrested in a Go, Devops Stuff
 
 
 
