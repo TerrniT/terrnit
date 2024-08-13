@@ -1,10 +1,12 @@
 * 🌍  I'm based in Ekaterinburg
-* 🖥️  See my portfolio at [my homepage](https://terrnit-xyz.vercel.app)
-* ✉️   You can contact me at [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
-* ⚒️​    I have expertise in Javascript, Typescript, Vue, React, NextJS, NuxtJS
+* ⚒️​   I have expertise in Javascript, Typescript, Vue, React, NextJS, NuxtJS
 * 🧠  Learning Svelte, Three JS and intrested in a Go, Devops Stuff
 * 🧑‍🏫​  I started mentoring, if there is a desire and your native language is Russian/English, I can become your mentor
 
+## Connect with me
+- [X](https://x.com/gaundergod)
+- [🖥️  Personal Website](https://terrnit-xyz.vercel.app)
+- [✉️ terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 
 
 ![profile_views](https://komarev.com/ghpvc/?username=terrnitllc)
