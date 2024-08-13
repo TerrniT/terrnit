@@ -4,7 +4,7 @@
 * 🧑‍🏫​  I started mentoring, if there is a desire and your native language is Russian/English, I can become your mentor
 
 ## Connect with me
-- 🔷​ [X](https://x.com/gaundergod)
+- 🔷​  [X](https://x.com/gaundergod)
 - 🖥️  [Personal Website](https://terrnit-xyz.vercel.app)
 - ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 
