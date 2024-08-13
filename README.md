@@ -6,7 +6,7 @@
 ## Connect with me
 - 🔷​ [X](https://x.com/gaundergod)
 - 🖥️  [Personal Website](https://terrnit-xyz.vercel.app)
-- ✉️ [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
+- ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 
 
 ![profile_views](https://komarev.com/ghpvc/?username=terrnitllc)
