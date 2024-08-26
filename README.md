@@ -13,7 +13,7 @@
 #### Contacts
 - 🔷​  [X](https://x.com/gaundergod)
 - 🔷​  [Telegram](https://t.me/terrnit)
-- 🖥️  [Personal Website](https://terrnit-xyz.vercel.app)
+- 🖥️  [Personal Website](https://www-terrnit.vercel.app)
 - ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 
 
