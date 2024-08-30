@@ -1,6 +1,6 @@
 * 🌍  I'm based in Ekaterinburg
 * ⚒️​   I have expertise in Javascript, Typescript, Vue, React, NextJS, NuxtJS
-* 🧠  Learning Svelte, Three JS and intrested in a Go, Devops Stuff
+* 🧠  Learning Svelte, Three JS and intrested in a Elysia JS
 * 🧑‍🏫​  I started mentoring, if there is a desire and your native language is Russian/English, I can become your mentor
 
 
