@@ -5,7 +5,9 @@
 
 
 <div style="dispay: flex; justify-content: center; gap: 2rem">
-![profile_views](https://komarev.com/ghpvc/?username=terrnitllc)
+<svg width="120" height="40">       
+     <image xlink:href="https://komarev.com/ghpvc/?username=terrnitllc" src="yourfallback.png" width="120" height="20"/>    
+</svg>
  <a href="https://wakatime.com/@4016d1b7-d562-4259-b50d-efb21a5f523f"><img src="https://wakatime.com/badge/user/4016d1b7-d562-4259-b50d-efb21a5f523f.svg" alt="Total time coded since Nov 28 2021" /></a>
 </div>
 #### Contacts
@@ -14,6 +16,8 @@
 - 🖥️  [Personal Website](https://www-terrnit.vercel.app)
 - ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 
+
+![profile_views](https://komarev.com/ghpvc/?username=terrnitllc)
 
 
 
