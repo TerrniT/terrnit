@@ -16,6 +16,7 @@
 - 🖥️  [Personal Website](https://www-terrnit.vercel.app)
 - ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 
+![](https://hit.yhype.me/github/profile?user_id=104818206)
 
 
 
