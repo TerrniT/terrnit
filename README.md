@@ -1,6 +1,4 @@
-## Hallo 👋
-
-# I'm Gleb Kotovsky
+## Hallo 👋 I'm Gleb Kotovsky
 
 ### About me 
 * 🌍  I'm based in Ekaterinburg / Russia
