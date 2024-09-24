@@ -1,4 +1,4 @@
-I'm Gleb Kotovsky
+Hallo 👋, i'm Gleb Kotovsky
 ====================================
 
 ### About me 
