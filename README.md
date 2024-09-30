@@ -7,7 +7,7 @@
 ### Contacts
 - 🐦​  [X](https://x.com/gaundergod)
 - ✈️​  [Telegram](https://t.me/terrnit)
-- 🖥️  [Personal Website](https://www-terrnit.vercel.app)
+- 🖥️  [Personal Website](https://terrnit.com)
 - ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
 
 ![](https://hit.yhype.me/github/profile?user_id=104818206)
