@@ -16,9 +16,10 @@
 ### Blog
 
 Check out my latest blog posts:
-- [Blog Post Title 1](link-to-your-blog-post)
-- [Blog Post Title 2](link-to-your-blog-post)
-- [Blog Post Title 3](link-to-your-blog-post)
+- [Trying Elysia JS: How I Built an App for Meaningful and Memorable Conversations](https://www.terrnit.com/articles/04-trying-elysia-js-how-i-built-an-app-for-meaningful-and-memorable-conversations)) 
+- [Setting Up a Nuxt 3 Project with ESLint, TypeScript, and Tailwind CSS](https://www.terrnit.com/articles/00-setting-up-nuxt-eslint-typescript-app)
+- [To Rebase or not to Rebase?](https://dev.to/gaundergod/to-rebase-or-not-to-rebase-4m0)
+
 
 ---
 
