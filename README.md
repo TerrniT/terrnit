@@ -12,6 +12,39 @@
 
 
 ---
+### Skills
+
+#### Language & Framework
+
+[![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-React.js-000?style=flat&logo=React)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Electron-000?style=flat&logo=Electron)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Go-000?style=flat&logo=Go)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-ReactNative-000?style=flat&logo=React)](https://github.com/terrnit)
+
+#### CSS Framework
+
+[![](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=TailwindCSS)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-shadcn/ui-000?style=flat&logo=shadcnui)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Vuetify-000?style=flat&logo=vuetify)](https://github.com/terrnit)
+
+#### Middleware
+
+[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/terrnit)
+
+#### Infra
+
+[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonwebservices)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Amplify-000?style=flat&logo=awsamplify)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-GoogleCloud-000?style=flat&logo=GoogleCloud)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-firebase-000?style=flat&logo=firebase)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel)](https://github.com/terrnit)
+---
 
 ### Blog
 
