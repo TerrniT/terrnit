@@ -5,8 +5,6 @@
 ### About Me
 
 * 🌍 **Location**: I'm based in Ekaterinburg, Russia  
-* ⚒️​  **Favorite Tech**: TypeScript, Vue, Astro, Svelte and Vite.
-* ⚒️​  **Tech Stack**: TypeScript / React, Vue, Svelte Ecosystems / Astro / Vite
 * 📝 **Blogging**: I enjoy writing about programming, technology trends, and personal development. Sharing knowledge is my passion!  
 * 🌐 **Misc**: Mochiato, Nature, Three.js and WebGL  
 
