@@ -58,7 +58,6 @@ Check out my latest blog posts:
 
 ### Contacts
 
-- 🐦​  [X](https://x.com/gaundergod)
 - ✈️​  [Telegram](https://t.me/terrnit)
 - 🖥️  [Personal Website](https://terrnit.com)
 - ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
