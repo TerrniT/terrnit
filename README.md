@@ -7,7 +7,7 @@
 ### About Me
 
 * 🌍 **Location**: I'm based in Ekaterinburg, Russia  
-* 📝 **Blogging**: I enjoy writing about programming, technology trends, and personal development. Sharing knowledge is my passion!  
+* 📝 **Blogging**: I enjoy writing about programming, technology trends, and personal development
 * 🌐 **Misc**: Mochiato, Nature, Three.js and WebGL  
 
 
