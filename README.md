@@ -1,20 +1,18 @@
 <div align="start" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
     <h2>Hi, Hallo, Привет, I'm
-        <a href="https://terrnit.com">Gleb Kotovsky</a>
+        <a href="https://terrnit.com">Глеб Котовский</a>
     </h2>
 </div>
 
-### About Me
+### Обо мне
 
-* 🌍 **Location**: I'm based in Ekaterinburg, Russia  
-* 📝 **Blogging**: I enjoy writing about programming, technology trends, and personal development
-* 🌐 **Misc**: Mochiato, Nature, Three.js and WebGL  
+* 🌍 **Локация**: Россия, Нахожусь сейчас в Екатеринбурге (Москва, Новосиб, ЕКБ)  
 
 
 ---
-### Skills
+### Скиллы
 
-#### Language & Framework
+#### Языки & Фреймоворки
 
 [![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js)](https://github.com/terrnit)
@@ -26,41 +24,36 @@
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=Go)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-ReactNative-000?style=flat&logo=React)](https://github.com/terrnit)
 
-#### CSS Framework
+#### CSS
 
 [![](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=TailwindCSS)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-shadcn/ui-000?style=flat&logo=shadcnui)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-Vuetify-000?style=flat&logo=vuetify)](https://github.com/terrnit)
 
-#### Middleware
-
-[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/terrnit)
-
-#### Infra
+#### Инфраструктура
 
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonwebservices)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-Amplify-000?style=flat&logo=awsamplify)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-GoogleCloud-000?style=flat&logo=GoogleCloud)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-firebase-000?style=flat&logo=firebase)](https://github.com/terrnit)
+[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/terrnit)
 [![](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel)](https://github.com/terrnit)
+
 ---
 
-### Blog
-
-Check out my latest blog posts:
+### Последние посты
 - [Trying Elysia JS: How I Built an App for Meaningful and Memorable Conversations](https://www.terrnit.com/articles/04-trying-elysia-js-how-i-built-an-app-for-meaningful-and-memorable-conversations)) 
 - [Setting Up a Nuxt 3 Project with ESLint, TypeScript, and Tailwind CSS](https://www.terrnit.com/articles/00-setting-up-nuxt-eslint-typescript-app)
 - [To Rebase or not to Rebase?](https://dev.to/gaundergod/to-rebase-or-not-to-rebase-4m0)
 
-
 ---
 
-### Contacts
+### Контакты
 
-- ✈️​  [Telegram](https://t.me/terrnit)
-- 🖥️  [Personal Website](https://terrnit.com)
-- ✉️  [terrnitllc.work@gmail.com](mailto:terrnitllc.work@gmail.com)
+- ✈️​  [Телеграм](https://t.me/terrnit)
+- 🖥️  [Сайт портфолио](https://terrnit.vercel.app)
+- ✉️  [terrnit.work@gmail.com](mailto:terrnit.work@gmail.com)
 
 ![](https://hit.yhype.me/github/profile?user_id=104818206)
 
